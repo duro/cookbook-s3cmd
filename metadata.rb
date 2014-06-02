@@ -1,3 +1,4 @@
+name             "s3cmd"
 maintainer       "ZehnerGroup"
 maintainer_email "aduro@zehnergroup.com"
 license          "Apache 2.0"
